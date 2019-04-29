@@ -12,6 +12,5 @@ pluginManagement {
 }
 
 include(
-    ":common",
-    ":android-app"
+    ":common"
 )
